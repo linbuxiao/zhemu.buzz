@@ -1,0 +1,10 @@
+:root {
+  --color-text: #fff;
+  --color-bg: #000;
+  --font-family: 'Long Cang', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --color-link: #9ac3e4;
+}
+
+.en {
+  font-family: 'Roboto Mono', monospace;
+}
